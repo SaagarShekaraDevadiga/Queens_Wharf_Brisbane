@@ -7,6 +7,7 @@ Quantifying transit resources and its network wide spatial temporal distribution
 Supply Index (SI) is a combination of indicators that measures the transit service resources allocated to a spatial zone. We have modelled the SI index between an origin destination pair that provides important insights on the supply provided for the mobility between two ends of the trip.
 
 The formulation includes
+
 a) zonal characteristics such as transit routes operates in origin zone, number of trips made by those routes in the analysis period, walk buffer areas of transit stops (number of transit stops), and total area of the zone.
 
 b) the quality of the service provided.
