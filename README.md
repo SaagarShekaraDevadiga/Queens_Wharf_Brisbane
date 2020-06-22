@@ -17,6 +17,9 @@ c) origin-destination dependent variables such as the minimum number of transfer
 As the proof-of-the-concept, real Google Transit Feed Specifications (GTFS) data from Brisbane urban network is exploited to estimate the SI values for different origins to all other destinations (at Statistical Area level 2, SA2) at Brisbane, Australia.
 
 Tools Used:
+
 Data cleaning and transformation: Python
+
 Data management: SQL Workbench
+
 Data visualization: Tableau, Kepler.Gl, Power BI
