@@ -1,3 +1,7 @@
+# Code Will be added soon after proper documentation
+
+# Supply Index Brisbane 
+
 Quantifying transit resources and its network wide spatial temporal distribution is needed for the informed transit planning and operations decisions.
 
 Supply Index (SI) is a combination of indicators that measures the transit service resources allocated to a spatial zone. We have modelled the SI index between an origin destination pair that provides important insights on the supply provided for the mobility between two ends of the trip.
